@@ -1,0 +1,16 @@
+C:\Users\Camil\Documents\.net\escuelaNet\bin\Debug\net5.0\escuelaNet.exe
+C:\Users\Camil\Documents\.net\escuelaNet\bin\Debug\net5.0\escuelaNet.deps.json
+C:\Users\Camil\Documents\.net\escuelaNet\bin\Debug\net5.0\escuelaNet.runtimeconfig.json
+C:\Users\Camil\Documents\.net\escuelaNet\bin\Debug\net5.0\escuelaNet.runtimeconfig.dev.json
+C:\Users\Camil\Documents\.net\escuelaNet\bin\Debug\net5.0\escuelaNet.dll
+C:\Users\Camil\Documents\.net\escuelaNet\bin\Debug\net5.0\ref\escuelaNet.dll
+C:\Users\Camil\Documents\.net\escuelaNet\bin\Debug\net5.0\escuelaNet.pdb
+C:\Users\Camil\Documents\.net\escuelaNet\obj\Debug\net5.0\escuelaNet.csproj.AssemblyReference.cache
+C:\Users\Camil\Documents\.net\escuelaNet\obj\Debug\net5.0\escuelaNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camil\Documents\.net\escuelaNet\obj\Debug\net5.0\escuelaNet.AssemblyInfoInputs.cache
+C:\Users\Camil\Documents\.net\escuelaNet\obj\Debug\net5.0\escuelaNet.AssemblyInfo.cs
+C:\Users\Camil\Documents\.net\escuelaNet\obj\Debug\net5.0\escuelaNet.csproj.CoreCompileInputs.cache
+C:\Users\Camil\Documents\.net\escuelaNet\obj\Debug\net5.0\escuelaNet.dll
+C:\Users\Camil\Documents\.net\escuelaNet\obj\Debug\net5.0\ref\escuelaNet.dll
+C:\Users\Camil\Documents\.net\escuelaNet\obj\Debug\net5.0\escuelaNet.pdb
+C:\Users\Camil\Documents\.net\escuelaNet\obj\Debug\net5.0\escuelaNet.genruntimeconfig.cache

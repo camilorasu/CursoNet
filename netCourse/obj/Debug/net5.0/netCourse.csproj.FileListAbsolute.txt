@@ -1,0 +1,16 @@
+C:\Users\Camil\Documents\.net\netCourse\bin\Debug\net5.0\netCourse.exe
+C:\Users\Camil\Documents\.net\netCourse\bin\Debug\net5.0\netCourse.deps.json
+C:\Users\Camil\Documents\.net\netCourse\bin\Debug\net5.0\netCourse.runtimeconfig.json
+C:\Users\Camil\Documents\.net\netCourse\bin\Debug\net5.0\netCourse.runtimeconfig.dev.json
+C:\Users\Camil\Documents\.net\netCourse\bin\Debug\net5.0\netCourse.dll
+C:\Users\Camil\Documents\.net\netCourse\bin\Debug\net5.0\ref\netCourse.dll
+C:\Users\Camil\Documents\.net\netCourse\bin\Debug\net5.0\netCourse.pdb
+C:\Users\Camil\Documents\.net\netCourse\obj\Debug\net5.0\netCourse.csproj.AssemblyReference.cache
+C:\Users\Camil\Documents\.net\netCourse\obj\Debug\net5.0\netCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camil\Documents\.net\netCourse\obj\Debug\net5.0\netCourse.AssemblyInfoInputs.cache
+C:\Users\Camil\Documents\.net\netCourse\obj\Debug\net5.0\netCourse.AssemblyInfo.cs
+C:\Users\Camil\Documents\.net\netCourse\obj\Debug\net5.0\netCourse.csproj.CoreCompileInputs.cache
+C:\Users\Camil\Documents\.net\netCourse\obj\Debug\net5.0\netCourse.dll
+C:\Users\Camil\Documents\.net\netCourse\obj\Debug\net5.0\ref\netCourse.dll
+C:\Users\Camil\Documents\.net\netCourse\obj\Debug\net5.0\netCourse.pdb
+C:\Users\Camil\Documents\.net\netCourse\obj\Debug\net5.0\netCourse.genruntimeconfig.cache
